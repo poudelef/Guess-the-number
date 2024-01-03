@@ -1,4 +1,4 @@
-# Guess the Numeber Game
+# Guess the Number Game
 It is a simple game designed to learn JavaScript.
 
  ## I took the help of MDN Web Docs to lean JavaScript and to write this code. 
